@@ -1,0 +1,571 @@
+"SAEMP25N Total Full-Time and Part-Time Employment by NAICS Industry 1/"
+"(Number of jobs)" 
+"Bureau of Economic Analysis" 
+"State or DC"
+"GeoFips","GeoName","LineCode","Description","2000","2017"
+"01000","Alabama","","By industry","",""
+"01000","Alabama","70","  Farm employment",57264,44478
+"01000","Alabama","200","      Mining, quarrying, and oil and gas extraction",9439,10431
+"01000","Alabama","500","      Manufacturing",353784,274127
+"01000","Alabama","700","      Retail trade",282684,284099
+"01000","Alabama","900","      Information",40142,27491
+"01000","Alabama","1000","      Finance and insurance",89746,113061
+"01000","Alabama","1500","      Educational services",24571,42245
+"01000","Alabama","1600","      Health care and social assistance",180532,249921
+"01000","Alabama","1700","      Arts, entertainment, and recreation",26393,39432
+"01000","Alabama","2000","    Government and government enterprises",385790,403590
+"02000","Alaska","","By industry","",""
+"02000","Alaska","70","  Farm employment",786,1522
+"02000","Alaska","200","      Mining, quarrying, and oil and gas extraction",11623,17182
+"02000","Alaska","500","      Manufacturing",13761,16071
+"02000","Alaska","700","      Retail trade",42715,45811
+"02000","Alaska","900","      Information",8167,7135
+"02000","Alaska","1000","      Finance and insurance",11374,11348
+"02000","Alaska","1500","      Educational services",3908,6086
+"02000","Alaska","1600","      Health care and social assistance",30984,52372
+"02000","Alaska","1700","      Arts, entertainment, and recreation",8635,10946
+"02000","Alaska","2000","    Government and government enterprises",96681,102991
+"04000","Arizona","","By industry","",""
+"04000","Arizona","70","  Farm employment",19657,31174
+"04000","Arizona","200","      Mining, quarrying, and oil and gas extraction",12630,21426
+"04000","Arizona","500","      Manufacturing",219420,178653
+"04000","Arizona","700","      Retail trade",325921,401468
+"04000","Arizona","900","      Information",61447,57479
+"04000","Arizona","1000","      Finance and insurance",150697,243106
+"04000","Arizona","1500","      Educational services",28969,80798
+"04000","Arizona","1600","      Health care and social assistance",223094,418262
+"04000","Arizona","1700","      Arts, entertainment, and recreation",54815,83459
+"04000","Arizona","2000","    Government and government enterprises",388749,449548
+"05000","Arkansas","","By industry","",""
+"05000","Arkansas","70","  Farm employment",63839,53334
+"05000","Arkansas","200","      Mining, quarrying, and oil and gas extraction",6242,13235
+"05000","Arkansas","500","      Manufacturing",240220,163452
+"05000","Arkansas","700","      Retail trade",164132,173009
+"05000","Arkansas","900","      Information",23345,16250
+"05000","Arkansas","1000","      Finance and insurance",48079,60616
+"05000","Arkansas","1500","      Educational services",12716,23046
+"05000","Arkansas","1600","      Health care and social assistance",135062,193391
+"05000","Arkansas","1700","      Arts, entertainment, and recreation",15533,21997
+"05000","Arkansas","2000","    Government and government enterprises",206308,226729
+"06000","California","","By industry","",""
+"06000","California","70","  Farm employment",326684,231736
+"06000","California","200","      Mining, quarrying, and oil and gas extraction",35347,49179
+"06000","California","500","      Manufacturing",1919727,1419020
+"06000","California","700","      Retail trade",1947767,2092123
+"06000","California","900","      Information",606799,609903
+"06000","California","1000","      Finance and insurance",848696,1061146
+"06000","California","1500","      Educational services",297789,533522
+"06000","California","1600","      Health care and social assistance",1513045,2650923
+"06000","California","1700","      Arts, entertainment, and recreation",470691,656010
+"06000","California","2000","    Government and government enterprises",2559207,2785845
+"08000","Colorado","","By industry","",""
+"08000","Colorado","70","  Farm employment",45004,50202
+"08000","Colorado","200","      Mining, quarrying, and oil and gas extraction",20878,56043
+"08000","Colorado","500","      Manufacturing",197640,162952
+"08000","Colorado","700","      Retail trade",309393,340093
+"08000","Colorado","900","      Information",118233,85664
+"08000","Colorado","1000","      Finance and insurance",158487,214050
+"08000","Colorado","1500","      Educational services",34639,75988
+"08000","Colorado","1600","      Health care and social assistance",210960,343497
+"08000","Colorado","1700","      Arts, entertainment, and recreation",73996,106689
+"08000","Colorado","2000","    Government and government enterprises",384625,493516
+"09000","Connecticut","","By industry","",""
+"09000","Connecticut","70","  Farm employment",9801,9621
+"09000","Connecticut","200","      Mining, quarrying, and oil and gas extraction",1866,2818
+"09000","Connecticut","500","      Manufacturing",240836,168474
+"09000","Connecticut","700","      Retail trade",231338,221181
+"09000","Connecticut","900","      Information",51693,38824
+"09000","Connecticut","1000","      Finance and insurance",162709,192089
+"09000","Connecticut","1500","      Educational services",57791,87221
+"09000","Connecticut","1600","      Health care and social assistance",235435,306999
+"09000","Connecticut","1700","      Arts, entertainment, and recreation",42300,55834
+"09000","Connecticut","2000","    Government and government enterprises",258465,255045
+"10000","Delaware","","By industry","",""
+"10000","Delaware","70","  Farm employment",4252,3692
+"10000","Delaware","200","      Mining, quarrying, and oil and gas extraction","(T)","(D)"
+"10000","Delaware","500","      Manufacturing",43280,27493
+"10000","Delaware","700","      Retail trade",60638,63056
+"10000","Delaware","900","      Information",9030,6297
+"10000","Delaware","1000","      Finance and insurance",45009,60132
+"10000","Delaware","1500","      Educational services",6756,9866
+"10000","Delaware","1600","      Health care and social assistance",45527,75611
+"10000","Delaware","1700","      Arts, entertainment, and recreation",11576,15641
+"10000","Delaware","2000","    Government and government enterprises",66226,73830
+"11000","District of Columbia","","By industry","",""
+"11000","District of Columbia","70","  Farm employment",0,0
+"11000","District of Columbia","200","      Mining, quarrying, and oil and gas extraction","(T)",369
+"11000","District of Columbia","500","      Manufacturing",3945,"(D)"
+"11000","District of Columbia","700","      Retail trade",20455,26800
+"11000","District of Columbia","900","      Information",28472,20406
+"11000","District of Columbia","1000","      Finance and insurance",22071,25818
+"11000","District of Columbia","1500","      Educational services",41013,60746
+"11000","District of Columbia","1600","      Health care and social assistance",52859,74666
+"11000","District of Columbia","1700","      Arts, entertainment, and recreation",9924,17603
+"11000","District of Columbia","2000","    Government and government enterprises",240743,250585
+"12000","Florida","","By industry","",""
+"12000","Florida","70","  Farm employment",98239,79525
+"12000","Florida","200","      Mining, quarrying, and oil and gas extraction",12466,23477
+"12000","Florida","500","      Manufacturing",469515,409017
+"12000","Florida","700","      Retail trade",1073134,1314845
+"12000","Florida","900","      Information",213591,180820
+"12000","Florida","1000","      Finance and insurance",439971,708718
+"12000","Florida","1500","      Educational services",104629,231029
+"12000","Florida","1600","      Health care and social assistance",821129,1323387
+"12000","Florida","1700","      Arts, entertainment, and recreation",233427,357970
+"12000","Florida","2000","    Government and government enterprises",1092780,1188925
+"13000","Georgia","","By industry","",""
+"13000","Georgia","70","  Farm employment",67343,60172
+"13000","Georgia","200","      Mining, quarrying, and oil and gas extraction",9594,9818
+"13000","Georgia","500","      Manufacturing",538010,421694
+"13000","Georgia","700","      Retail trade",548658,607653
+"13000","Georgia","900","      Information",156232,139230
+"13000","Georgia","1000","      Finance and insurance",200422,289971
+"13000","Georgia","1500","      Educational services",70354,125422
+"13000","Georgia","1600","      Health care and social assistance",352635,564638
+"13000","Georgia","1700","      Arts, entertainment, and recreation",69623,118241
+"13000","Georgia","2000","    Government and government enterprises",694887,775717
+"15000","Hawaii","","By industry","",""
+"15000","Hawaii","70","  Farm employment",12839,11981
+"15000","Hawaii","200","      Mining, quarrying, and oil and gas extraction",474,793
+"15000","Hawaii","500","      Manufacturing",19378,18819
+"15000","Hawaii","700","      Retail trade",84002,90532
+"15000","Hawaii","900","      Information",13673,10945
+"15000","Hawaii","1000","      Finance and insurance",24957,29537
+"15000","Hawaii","1500","      Educational services",13936,20635
+"15000","Hawaii","1600","      Health care and social assistance",58222,82659
+"15000","Hawaii","1700","      Arts, entertainment, and recreation",19470,23550
+"15000","Hawaii","2000","    Government and government enterprises",165996,181953
+"16000","Idaho","","By industry","",""
+"16000","Idaho","70","  Farm employment",41934,43459
+"16000","Idaho","200","      Mining, quarrying, and oil and gas extraction",3289,5104
+"16000","Idaho","500","      Manufacturing",74262,73312
+"16000","Idaho","700","      Retail trade",95582,111587
+"16000","Idaho","900","      Information",11519,12099
+"16000","Idaho","1000","      Finance and insurance",27134,41114
+"16000","Idaho","1500","      Educational services",8126,18521
+"16000","Idaho","1600","      Health care and social assistance",60795,103593
+"16000","Idaho","1700","      Arts, entertainment, and recreation",13185,21314
+"16000","Idaho","2000","    Government and government enterprises",117827,133446
+"17000","Illinois","","By industry","",""
+"17000","Illinois","70","  Farm employment",100588,73621
+"17000","Illinois","200","      Mining, quarrying, and oil and gas extraction",17028,23199
+"17000","Illinois","500","      Manufacturing",880434,597010
+"17000","Illinois","700","      Retail trade",766354,721961
+"17000","Illinois","900","      Information",168826,115794
+"17000","Illinois","1000","      Finance and insurance",446083,490945
+"17000","Illinois","1500","      Educational services",132764,213023
+"17000","Illinois","1600","      Health care and social assistance",699728,880026
+"17000","Illinois","1700","      Arts, entertainment, and recreation",131243,169891
+"17000","Illinois","2000","    Government and government enterprises",894750,872567
+"18000","Indiana","","By industry","",""
+"18000","Indiana","70","  Farm employment",79633,62941
+"18000","Indiana","200","      Mining, quarrying, and oil and gas extraction",9426,11325
+"18000","Indiana","500","      Manufacturing",674324,550350
+"18000","Indiana","700","      Retail trade",434796,394386
+"18000","Indiana","900","      Information",52527,40282
+"18000","Indiana","1000","      Finance and insurance",141269,151784
+"18000","Indiana","1500","      Educational services",54731,87526
+"18000","Indiana","1600","      Health care and social assistance",321234,444046
+"18000","Indiana","1700","      Arts, entertainment, and recreation",65554,74459
+"18000","Indiana","2000","    Government and government enterprises",431489,445486
+"19000","Iowa","","By industry","",""
+"19000","Iowa","70","  Farm employment",109851,87012
+"19000","Iowa","200","      Mining, quarrying, and oil and gas extraction",2673,4311
+"19000","Iowa","500","      Manufacturing",255881,223319
+"19000","Iowa","700","      Retail trade",238438,224075
+"19000","Iowa","900","      Information",43974,26647
+"19000","Iowa","1000","      Finance and insurance",97856,133949
+"19000","Iowa","1500","      Educational services",33561,47932
+"19000","Iowa","1600","      Health care and social assistance",182270,219087
+"19000","Iowa","1700","      Arts, entertainment, and recreation",32273,36380
+"19000","Iowa","2000","    Government and government enterprises",256256,270993
+"20000","Kansas","","By industry","",""
+"20000","Kansas","70","  Farm employment",77477,62132
+"20000","Kansas","200","      Mining, quarrying, and oil and gas extraction",17784,40712
+"20000","Kansas","500","      Manufacturing",203835,168447
+"20000","Kansas","700","      Retail trade",202614,186640
+"20000","Kansas","900","      Information",49958,24004
+"20000","Kansas","1000","      Finance and insurance",75924,101564
+"20000","Kansas","1500","      Educational services",19645,28202
+"20000","Kansas","1600","      Health care and social assistance",162255,201912
+"20000","Kansas","1700","      Arts, entertainment, and recreation",25903,33213
+"20000","Kansas","2000","    Government and government enterprises",278923,295225
+"21000","Kentucky","","By industry","",""
+"21000","Kentucky","70","  Farm employment",111911,84136
+"21000","Kentucky","200","      Mining, quarrying, and oil and gas extraction",21662,18278
+"21000","Kentucky","500","      Manufacturing",314911,258794
+"21000","Kentucky","700","      Retail trade",270068,262325
+"21000","Kentucky","900","      Information",37699,28205
+"21000","Kentucky","1000","      Finance and insurance",81270,108031
+"21000","Kentucky","1500","      Educational services",28215,40745
+"21000","Kentucky","1600","      Health care and social assistance",200328,270414
+"21000","Kentucky","1700","      Arts, entertainment, and recreation",30272,41821
+"21000","Kentucky","2000","    Government and government enterprises",345937,352480
+"22000","Louisiana","","By industry","",""
+"22000","Louisiana","70","  Farm employment",40125,32753
+"22000","Louisiana","200","      Mining, quarrying, and oil and gas extraction",51795,61516
+"22000","Louisiana","500","      Manufacturing",178325,145147
+"22000","Louisiana","700","      Retail trade",270278,280154
+"22000","Louisiana","900","      Information",34388,29621
+"22000","Louisiana","1000","      Finance and insurance",86564,107242
+"22000","Louisiana","1500","      Educational services",36112,55568
+"22000","Louisiana","1600","      Health care and social assistance",220188,316538
+"22000","Louisiana","1700","      Arts, entertainment, and recreation",51807,54194
+"22000","Louisiana","2000","    Government and government enterprises",413885,358829
+"23000","Maine","","By industry","",""
+"23000","Maine","70","  Farm employment",10528,10625
+"23000","Maine","200","      Mining, quarrying, and oil and gas extraction","(T)",1235
+"23000","Maine","500","      Manufacturing",83113,56410
+"23000","Maine","700","      Retail trade",105231,99756
+"23000","Maine","900","      Information",13854,9822
+"23000","Maine","1000","      Finance and insurance",32306,33040
+"23000","Maine","1500","      Educational services",13461,21933
+"23000","Maine","1600","      Health care and social assistance",95876,117738
+"23000","Maine","1700","      Arts, entertainment, and recreation",16946,21278
+"23000","Maine","2000","    Government and government enterprises",107716,107315
+"24000","Maryland","","By industry","",""
+"24000","Maryland","70","  Farm employment",18976,19271
+"24000","Maryland","200","      Mining, quarrying, and oil and gas extraction",2693,4011
+"24000","Maryland","500","      Manufacturing",179005,117463
+"24000","Maryland","700","      Retail trade",352221,346845
+"24000","Maryland","900","      Information",68245,51380
+"24000","Maryland","1000","      Finance and insurance",139593,164775
+"24000","Maryland","1500","      Educational services",63516,106931
+"24000","Maryland","1600","      Health care and social assistance",319487,442411
+"24000","Maryland","1700","      Arts, entertainment, and recreation",62158,92482
+"24000","Maryland","2000","    Government and government enterprises",516333,567907
+"25000","Massachusetts","","By industry","",""
+"25000","Massachusetts","70","  Farm employment",10710,10471
+"25000","Massachusetts","200","      Mining, quarrying, and oil and gas extraction",2303,3315
+"25000","Massachusetts","500","      Manufacturing",416792,259648
+"25000","Massachusetts","700","      Retail trade",415292,429385
+"25000","Massachusetts","900","      Information",122054,107129
+"25000","Massachusetts","1000","      Finance and insurance",236620,281227
+"25000","Massachusetts","1500","      Educational services",174919,246149
+"25000","Massachusetts","1600","      Health care and social assistance",479679,699139
+"25000","Massachusetts","1700","      Arts, entertainment, and recreation",84132,127138
+"25000","Massachusetts","2000","    Government and government enterprises",454620,463133
+"26000","Michigan","","By industry","",""
+"26000","Michigan","70","  Farm employment",73645,61700
+"26000","Michigan","200","      Mining, quarrying, and oil and gas extraction",13469,16644
+"26000","Michigan","500","      Manufacturing",911843,643027
+"26000","Michigan","700","      Retail trade",660137,571389
+"26000","Michigan","900","      Information",88514,71430
+"26000","Michigan","1000","      Finance and insurance",209656,249048
+"26000","Michigan","1500","      Educational services",66577,107713
+"26000","Michigan","1600","      Health care and social assistance",537760,680711
+"26000","Michigan","1700","      Arts, entertainment, and recreation",97903,109681
+"26000","Michigan","2000","    Government and government enterprises",698253,611105
+"27000","Minnesota","","By industry","",""
+"27000","Minnesota","70","  Farm employment",100675,74206
+"27000","Minnesota","200","      Mining, quarrying, and oil and gas extraction",8709,10254
+"27000","Minnesota","500","      Manufacturing",407496,335644
+"27000","Minnesota","700","      Retail trade",375640,365587
+"27000","Minnesota","900","      Information",76529,59341
+"27000","Minnesota","1000","      Finance and insurance",173826,215506
+"27000","Minnesota","1500","      Educational services",55162,93517
+"27000","Minnesota","1600","      Health care and social assistance",338779,502151
+"27000","Minnesota","1700","      Arts, entertainment, and recreation",64232,91729
+"27000","Minnesota","2000","    Government and government enterprises",406664,427266
+"28000","Mississippi","","By industry","",""
+"28000","Mississippi","70","  Farm employment",55096,39844
+"28000","Mississippi","200","      Mining, quarrying, and oil and gas extraction",7948,12935
+"28000","Mississippi","500","      Manufacturing",223867,150095
+"28000","Mississippi","700","      Retail trade",172485,173131
+"28000","Mississippi","900","      Information",19335,15032
+"28000","Mississippi","1000","      Finance and insurance",47115,56787
+"28000","Mississippi","1500","      Educational services",16879,25697
+"28000","Mississippi","1600","      Health care and social assistance",106824,159810
+"28000","Mississippi","1700","      Arts, entertainment, and recreation",26629,19989
+"28000","Mississippi","2000","    Government and government enterprises",273621,272103
+"29000","Missouri","","By industry","",""
+"29000","Missouri","70","  Farm employment",124097,94066
+"29000","Missouri","200","      Mining, quarrying, and oil and gas extraction",6994,8809
+"29000","Missouri","500","      Manufacturing",373084,280376
+"29000","Missouri","700","      Retail trade",388100,385959
+"29000","Missouri","900","      Information",87084,57406
+"29000","Missouri","1000","      Finance and insurance",155562,194542
+"29000","Missouri","1500","      Educational services",63587,84724
+"29000","Missouri","1600","      Health care and social assistance",321412,450318
+"29000","Missouri","1700","      Arts, entertainment, and recreation",65282,74134
+"29000","Missouri","2000","    Government and government enterprises",469735,471428
+"30000","Montana","","By industry","",""
+"30000","Montana","70","  Farm employment",32805,30344
+"30000","Montana","200","      Mining, quarrying, and oil and gas extraction",6363,11923
+"30000","Montana","500","      Manufacturing",24863,24643
+"30000","Montana","700","      Retail trade",69406,75524
+"30000","Montana","900","      Information",9350,8484
+"30000","Montana","1000","      Finance and insurance",20473,25328
+"30000","Montana","1500","      Educational services",5079,8706
+"30000","Montana","1600","      Health care and social assistance",53912,76925
+"30000","Montana","1700","      Arts, entertainment, and recreation",14435,20649
+"30000","Montana","2000","    Government and government enterprises",89076,96104
+"31000","Nebraska","","By industry","",""
+"31000","Nebraska","70","  Farm employment",66442,54574
+"31000","Nebraska","200","      Mining, quarrying, and oil and gas extraction",2150,3169
+"31000","Nebraska","500","      Manufacturing",115308,101866
+"31000","Nebraska","700","      Retail trade",140769,136117
+"31000","Nebraska","900","      Information",27216,20833
+"31000","Nebraska","1000","      Finance and insurance",65756,83460
+"31000","Nebraska","1500","      Educational services",17897,24184
+"31000","Nebraska","1600","      Health care and social assistance",106141,144682
+"31000","Nebraska","1700","      Arts, entertainment, and recreation",17649,25483
+"31000","Nebraska","2000","    Government and government enterprises",162573,175532
+"32000","Nevada","","By industry","",""
+"32000","Nevada","70","  Farm employment",5287,5402
+"32000","Nevada","200","      Mining, quarrying, and oil and gas extraction",12674,19624
+"32000","Nevada","500","      Manufacturing",45262,54008
+"32000","Nevada","700","      Retail trade",132255,178362
+"32000","Nevada","900","      Information",22029,20622
+"32000","Nevada","1000","      Finance and insurance",63552,85036
+"32000","Nevada","1500","      Educational services",4950,17368
+"32000","Nevada","1600","      Health care and social assistance",70317,141480
+"32000","Nevada","1700","      Arts, entertainment, and recreation",41658,55861
+"32000","Nevada","2000","    Government and government enterprises",130538,174897
+"33000","New Hampshire","","By industry","",""
+"33000","New Hampshire","70","  Farm employment",4718,5195
+"33000","New Hampshire","200","      Mining, quarrying, and oil and gas extraction",606,1533
+"33000","New Hampshire","500","      Manufacturing",106369,74301
+"33000","New Hampshire","700","      Retail trade",111949,113341
+"33000","New Hampshire","900","      Information",15959,15435
+"33000","New Hampshire","1000","      Finance and insurance",34311,42434
+"33000","New Hampshire","1500","      Educational services",22392,31312
+"33000","New Hampshire","1600","      Health care and social assistance",76061,101911
+"33000","New Hampshire","1700","      Arts, entertainment, and recreation",17719,23134
+"33000","New Hampshire","2000","    Government and government enterprises",86666,94153
+"34000","New Jersey","","By industry","",""
+"34000","New Jersey","70","  Farm employment",18927,19283
+"34000","New Jersey","200","      Mining, quarrying, and oil and gas extraction",3000,3823
+"34000","New Jersey","500","      Manufacturing",428991,261132
+"34000","New Jersey","700","      Retail trade",528310,548676
+"34000","New Jersey","900","      Information",136781,89816
+"34000","New Jersey","1000","      Finance and insurance",275123,340481
+"34000","New Jersey","1500","      Educational services",82132,136510
+"34000","New Jersey","1600","      Health care and social assistance",468619,651857
+"34000","New Jersey","1700","      Arts, entertainment, and recreation",79871,124719
+"34000","New Jersey","2000","    Government and government enterprises",604010,611630
+"35000","New Mexico","","By industry","",""
+"35000","New Mexico","70","  Farm employment",21910,29031
+"35000","New Mexico","200","      Mining, quarrying, and oil and gas extraction",18603,31204
+"35000","New Mexico","500","      Manufacturing",46947,32562
+"35000","New Mexico","700","      Retail trade",112003,111466
+"35000","New Mexico","900","      Information",18206,15491
+"35000","New Mexico","1000","      Finance and insurance",31039,35674
+"35000","New Mexico","1500","      Educational services",11225,17048
+"35000","New Mexico","1600","      Health care and social assistance",88361,134791
+"35000","New Mexico","1700","      Arts, entertainment, and recreation",20655,25154
+"35000","New Mexico","2000","    Government and government enterprises",202324,206086
+"36000","New York","","By industry","",""
+"36000","New York","70","  Farm employment",60708,52844
+"36000","New York","200","      Mining, quarrying, and oil and gas extraction",8979,14129
+"36000","New York","500","      Manufacturing",765716,481558
+"36000","New York","700","      Retail trade",1019177,1102272
+"36000","New York","900","      Information",356100,314829
+"36000","New York","1000","      Finance and insurance",736151,906914
+"36000","New York","1500","      Educational services",327333,487749
+"36000","New York","1600","      Health care and social assistance",1260368,1716123
+"36000","New York","1700","      Arts, entertainment, and recreation",256610,368227
+"36000","New York","2000","    Government and government enterprises",1483805,1458054
+"37000","North Carolina","","By industry","",""
+"37000","North Carolina","70","  Farm employment",84975,62769
+"37000","North Carolina","200","      Mining, quarrying, and oil and gas extraction",6305,7803
+"37000","North Carolina","500","      Manufacturing",778251,491005
+"37000","North Carolina","700","      Retail trade",547234,607805
+"37000","North Carolina","900","      Information",92653,95251
+"37000","North Carolina","1000","      Finance and insurance",180836,265161
+"37000","North Carolina","1500","      Educational services",60146,140579
+"37000","North Carolina","1600","      Health care and social assistance",372057,571532
+"37000","North Carolina","1700","      Arts, entertainment, and recreation",76864,132724
+"37000","North Carolina","2000","    Government and government enterprises",739595,860583
+"38000","North Dakota","","By industry","",""
+"38000","North Dakota","70","  Farm employment",36887,28400
+"38000","North Dakota","200","      Mining, quarrying, and oil and gas extraction",3974,24257
+"38000","North Dakota","500","      Manufacturing",23983,26452
+"38000","North Dakota","700","      Retail trade",52112,59438
+"38000","North Dakota","900","      Information",9299,7374
+"38000","North Dakota","1000","      Finance and insurance",18752,27069
+"38000","North Dakota","1500","      Educational services",3868,6667
+"38000","North Dakota","1600","      Health care and social assistance",51144,66543
+"38000","North Dakota","1700","      Arts, entertainment, and recreation",5675,8549
+"38000","North Dakota","2000","    Government and government enterprises",76733,88564
+"39000","Ohio","","By industry","",""
+"39000","Ohio","70","  Farm employment",101045,87358
+"39000","Ohio","200","      Mining, quarrying, and oil and gas extraction",20327,28834
+"39000","Ohio","500","      Manufacturing",1046727,716553
+"39000","Ohio","700","      Retail trade",797628,695631
+"39000","Ohio","900","      Information",121277,88486
+"39000","Ohio","1000","      Finance and insurance",297383,346744
+"39000","Ohio","1500","      Educational services",103165,152598
+"39000","Ohio","1600","      Health care and social assistance",670007,897073
+"39000","Ohio","1700","      Arts, entertainment, and recreation",117160,143233
+"39000","Ohio","2000","    Government and government enterprises",822838,804187
+"40000","Oklahoma","","By industry","",""
+"40000","Oklahoma","70","  Farm employment",100194,77964
+"40000","Oklahoma","200","      Mining, quarrying, and oil and gas extraction",52776,122690
+"40000","Oklahoma","500","      Manufacturing",178043,139861
+"40000","Oklahoma","700","      Retail trade",225007,229060
+"40000","Oklahoma","900","      Information",39389,26201
+"40000","Oklahoma","1000","      Finance and insurance",77285,102970
+"40000","Oklahoma","1500","      Educational services",20893,31053
+"40000","Oklahoma","1600","      Health care and social assistance",175514,219966
+"40000","Oklahoma","1700","      Arts, entertainment, and recreation",25546,35056
+"40000","Oklahoma","2000","    Government and government enterprises",330433,369137
+"41000","Oregon","","By industry","",""
+"41000","Oregon","70","  Farm employment",65675,65915
+"41000","Oregon","200","      Mining, quarrying, and oil and gas extraction",3439,6026
+"41000","Oregon","500","      Manufacturing",233467,207388
+"41000","Oregon","700","      Retail trade",241836,259928
+"41000","Oregon","900","      Information",45691,43095
+"41000","Oregon","1000","      Finance and insurance",81777,96126
+"41000","Oregon","1500","      Educational services",32595,59035
+"41000","Oregon","1600","      Health care and social assistance",188146,293195
+"41000","Oregon","1700","      Arts, entertainment, and recreation",43249,64374
+"41000","Oregon","2000","    Government and government enterprises",277844,291039
+"42000","Pennsylvania","","By industry","",""
+"42000","Pennsylvania","70","  Farm employment",85561,75079
+"42000","Pennsylvania","200","      Mining, quarrying, and oil and gas extraction",26339,47301
+"42000","Pennsylvania","500","      Manufacturing",879394,593666
+"42000","Pennsylvania","700","      Retail trade",818992,767735
+"42000","Pennsylvania","900","      Information",148525,101514
+"42000","Pennsylvania","1000","      Finance and insurance",348290,404463
+"42000","Pennsylvania","1500","      Educational services",213708,305832
+"42000","Pennsylvania","1600","      Health care and social assistance",812186,1099550
+"42000","Pennsylvania","1700","      Arts, entertainment, and recreation",120383,173195
+"42000","Pennsylvania","2000","    Government and government enterprises",785276,773861
+"44000","Rhode Island","","By industry","",""
+"44000","Rhode Island","70","  Farm employment",1299,1461
+"44000","Rhode Island","200","      Mining, quarrying, and oil and gas extraction",492,"(D)"
+"44000","Rhode Island","500","      Manufacturing",71771,42754
+"44000","Rhode Island","700","      Retail trade",61095,57633
+"44000","Rhode Island","900","      Information",12168,7948
+"44000","Rhode Island","1000","      Finance and insurance",29501,37949
+"44000","Rhode Island","1500","      Educational services",22510,32139
+"44000","Rhode Island","1600","      Health care and social assistance",75835,88836
+"44000","Rhode Island","1700","      Arts, entertainment, and recreation",12333,17596
+"44000","Rhode Island","2000","    Government and government enterprises",76392,72025
+"45000","South Carolina","","By industry","",""
+"45000","South Carolina","70","  Farm employment",32268,28948
+"45000","South Carolina","200","      Mining, quarrying, and oil and gas extraction",2626,5005
+"45000","South Carolina","500","      Manufacturing",338640,250303
+"45000","South Carolina","700","      Retail trade",277329,299243
+"45000","South Carolina","900","      Information",35436,34991
+"45000","South Carolina","1000","      Finance and insurance",79320,113484
+"45000","South Carolina","1500","      Educational services",25212,46225
+"45000","South Carolina","1600","      Health care and social assistance",144308,234489
+"45000","South Carolina","1700","      Arts, entertainment, and recreation",38640,56137
+"45000","South Carolina","2000","    Government and government enterprises",382938,410047
+"46000","South Dakota","","By industry","",""
+"46000","South Dakota","70","  Farm employment",38031,31533
+"46000","South Dakota","200","      Mining, quarrying, and oil and gas extraction",1382,2659
+"46000","South Dakota","500","      Manufacturing",44031,45612
+"46000","South Dakota","700","      Retail trade",63178,67920
+"46000","South Dakota","900","      Information",7964,7028
+"46000","South Dakota","1000","      Finance and insurance",30087,39752
+"46000","South Dakota","1500","      Educational services",7470,10183
+"46000","South Dakota","1600","      Health care and social assistance",53929,70275
+"46000","South Dakota","1700","      Arts, entertainment, and recreation",9758,12344
+"46000","South Dakota","2000","    Government and government enterprises",77967,86049
+"47000","Tennessee","","By industry","",""
+"47000","Tennessee","70","  Farm employment",105933,74850
+"47000","Tennessee","200","      Mining, quarrying, and oil and gas extraction",6274,8786
+"47000","Tennessee","500","      Manufacturing",498790,364134
+"47000","Tennessee","700","      Retail trade",403609,419535
+"47000","Tennessee","900","      Information",61583,58690
+"47000","Tennessee","1000","      Finance and insurance",138387,179611
+"47000","Tennessee","1500","      Educational services",46067,80728
+"47000","Tennessee","1600","      Health care and social assistance",275338,426645
+"47000","Tennessee","1700","      Arts, entertainment, and recreation",57169,91497
+"47000","Tennessee","2000","    Government and government enterprises",420671,447172
+"48000","Texas","","By industry","",""
+"48000","Texas","70","  Farm employment",284440,272034
+"48000","Texas","200","      Mining, quarrying, and oil and gas extraction",219226,453362
+"48000","Texas","500","      Manufacturing",1103180,933250
+"48000","Texas","700","      Retail trade",1365442,1652443
+"48000","Texas","900","      Information",304407,255086
+"48000","Texas","1000","      Finance and insurance",583673,1017954
+"48000","Texas","1500","      Educational services",140027,274799
+"48000","Texas","1600","      Health care and social assistance",966225,1668854
+"48000","Texas","1700","      Arts, entertainment, and recreation",175613,292011
+"48000","Texas","2000","    Government and government enterprises",1719816,2062263
+"49000","Utah","","By industry","",""
+"49000","Utah","70","  Farm employment",20475,22159
+"49000","Utah","200","      Mining, quarrying, and oil and gas extraction",8772,13798
+"49000","Utah","500","      Manufacturing",130901,139215
+"49000","Utah","700","      Retail trade",161378,211286
+"49000","Utah","900","      Information",39391,44273
+"49000","Utah","1000","      Finance and insurance",79612,127684
+"49000","Utah","1500","      Educational services",29114,66382
+"49000","Utah","1600","      Health care and social assistance",96192,168353
+"49000","Utah","1700","      Arts, entertainment, and recreation",26205,46254
+"49000","Utah","2000","    Government and government enterprises",203717,255490
+"50000","Vermont","","By industry","",""
+"50000","Vermont","70","  Farm employment",9648,9391
+"50000","Vermont","200","      Mining, quarrying, and oil and gas extraction",1131,1357
+"50000","Vermont","500","      Manufacturing",48422,33688
+"50000","Vermont","700","      Retail trade",48646,47046
+"50000","Vermont","900","      Information",7929,6019
+"50000","Vermont","1000","      Finance and insurance",12649,13918
+"50000","Vermont","1500","      Educational services",15000,19415
+"50000","Vermont","1600","      Health care and social assistance",40930,59571
+"50000","Vermont","1700","      Arts, entertainment, and recreation",9100,12056
+"50000","Vermont","2000","    Government and government enterprises",52754,57907
+"51000","Virginia","","By industry","",""
+"51000","Virginia","70","  Farm employment",61192,48977
+"51000","Virginia","200","      Mining, quarrying, and oil and gas extraction",11394,11582
+"51000","Virginia","500","      Manufacturing",363465,248800
+"51000","Virginia","700","      Retail trade",484536,503371
+"51000","Virginia","900","      Information",127355,84099
+"51000","Virginia","1000","      Finance and insurance",160355,223466
+"51000","Virginia","1500","      Educational services",61268,109623
+"51000","Virginia","1600","      Health care and social assistance",322836,500092
+"51000","Virginia","1700","      Arts, entertainment, and recreation",78195,111227
+"51000","Virginia","2000","    Government and government enterprises",807139,878480
+"53000","Washington","","By industry","",""
+"53000","Washington","70","  Farm employment",80286,84353
+"53000","Washington","200","      Mining, quarrying, and oil and gas extraction",5598,8756
+"53000","Washington","500","      Manufacturing",347942,305056
+"53000","Washington","700","      Retail trade",396796,464725
+"53000","Washington","900","      Information",107120,139313
+"53000","Washington","1000","      Finance and insurance",141156,169131
+"53000","Washington","1500","      Educational services",46629,81722
+"53000","Washington","1600","      Health care and social assistance",302684,471646
+"53000","Washington","1700","      Arts, entertainment, and recreation",75139,106121
+"53000","Washington","2000","    Government and government enterprises",563087,649977
+"54000","West Virginia","","By industry","",""
+"54000","West Virginia","70","  Farm employment",23172,23048
+"54000","West Virginia","200","      Mining, quarrying, and oil and gas extraction",24815,32444
+"54000","West Virginia","500","      Manufacturing",77226,49440
+"54000","West Virginia","700","      Retail trade",115028,103857
+"54000","West Virginia","900","      Information",15789,10337
+"54000","West Virginia","1000","      Finance and insurance",28428,26060
+"54000","West Virginia","1500","      Educational services",11167,13242
+"54000","West Virginia","1600","      Health care and social assistance",101469,125703
+"54000","West Virginia","1700","      Arts, entertainment, and recreation",12812,14561
+"54000","West Virginia","2000","    Government and government enterprises",151643,154522
+"55000","Wisconsin","","By industry","",""
+"55000","Wisconsin","70","  Farm employment",101442,81430
+"55000","Wisconsin","200","      Mining, quarrying, and oil and gas extraction",3788,6980
+"55000","Wisconsin","500","      Manufacturing",604927,485287
+"55000","Wisconsin","700","      Retail trade",404415,379860
+"55000","Wisconsin","900","      Information",59995,55838
+"55000","Wisconsin","1000","      Finance and insurance",155811,182074
+"55000","Wisconsin","1500","      Educational services",49515,70430
+"55000","Wisconsin","1600","      Health care and social assistance",325123,429946
+"55000","Wisconsin","1700","      Arts, entertainment, and recreation",56357,75313
+"55000","Wisconsin","2000","    Government and government enterprises",417773,435695
+"56000","Wyoming","","By industry","",""
+"56000","Wyoming","70","  Farm employment",12726,14984
+"56000","Wyoming","200","      Mining, quarrying, and oil and gas extraction",18675,26562
+"56000","Wyoming","500","      Manufacturing",11296,"(D)"
+"56000","Wyoming","700","      Retail trade",39197,38976
+"56000","Wyoming","900","      Information",4358,4811
+"56000","Wyoming","1000","      Finance and insurance",10897,18211
+"56000","Wyoming","1500","      Educational services",2112,4086
+"56000","Wyoming","1600","      Health care and social assistance",22399,30042
+"56000","Wyoming","1700","      Arts, entertainment, and recreation",6503,8050
+"56000","Wyoming","2000","    Government and government enterprises",64926,74989
+"Legend / Footnotes:"
+"1/ The estimates of employment for 1998-2006 are based on the 2002 North American Industry Classification System (NAICS). The estimates for 2007-2010 are based on the 2007 NAICS. The estimates for 2011-2016 are based on the 2012 NAICS. The estimates for 2017 forward are based on the 2017 NAICS."
+"(D) Not shown to avoid disclosure of confidential information; estimates are included in higher-level totals."
+"(T) Estimate for employment suppressed to cover corresponding estimate for earnings. Estimates for this item are included in the total."
+"Last updated: September 24, 2019-- new statistics for 2018; revised statistics for 2014-2017."
