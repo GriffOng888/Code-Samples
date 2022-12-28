@@ -1,4 +1,4 @@
-# Summary of Code Samples
+## Summary of Code Samples
 
 ### Data Wrangling 
 This code sample involves cleaning and merging two separate data files about total employment by industry within a given U.S. state over time. The end result is a clean dataframe that can be used for further analysis or visualization. 
