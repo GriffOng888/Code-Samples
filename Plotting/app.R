@@ -7,7 +7,7 @@ library(scales)
 library(rsconnect)
 library(plotly)
 
-setwd("C:/Users/Griffin Ong/Documents/GitHub/Code-Samples/Plotting")
+# setwd("C:/Users/Griffin Ong/Documents/GitHub/Code-Samples/Plotting")
 
 ui <- fluidPage(
   fluidRow(column(width = 12,
